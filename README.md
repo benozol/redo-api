@@ -21,5 +21,5 @@ redo.output(result)
 # Installation
 
 ```shell
-pipenv install git+https://github.com/benozol/redo_api
+pipenv install git+https://github.com/benozol/redo_api#egg=redo_api
 ```
